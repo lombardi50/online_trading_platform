@@ -1,6 +1,6 @@
 {
   "name": "online-trading-platform",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A full stack online stock trading platform, built with React and Django",
   "main": "src/index.js",
   "scripts": {
